@@ -1,8 +1,8 @@
-# ["openroguelike"] | stdout
+# ["OpenRoguelike"] | stdout
 
 It's an early-stage implementation of a classic roguelike. Check out the contents below.
 
-## ["contents"] | stdout
+## ["Contents"] | stdout
 
 1. [Install](#install--stdout)
    * [Requires](#requires--stdout)
@@ -12,14 +12,14 @@ It's an early-stage implementation of a classic roguelike. Check out the content
    * [Others](#others--stdout)
 1. [License](#license--stdout)
 
-### ["install"] | stdout
+### ["Install"] | stdout
 
-### ["requires"] | stdout
+### ["Requires"] | stdout
 
 * C compiler
 * a curse implementation such as ncurses
 
-### ["build"] | stdout
+### ["Build"] | stdout
 
 ```console
 $ ./configure
@@ -28,9 +28,9 @@ $ make
 
 There is no install target for now as it is not interesting enough yet.
 
-### ["instructions"] | stdout
+### ["Instructions"] | stdout
 
-#### ["directions"] | stdout
+#### ["Directions"] | stdout
 
     y k u
      \|/
@@ -38,7 +38,7 @@ There is no install target for now as it is not interesting enough yet.
      /|\
     b j n
 
-#### ["others"] | stdout
+#### ["Others"] | stdout
 
 | Key | Action |
 | :--- | ---: |
@@ -49,7 +49,7 @@ There is no install target for now as it is not interesting enough yet.
 | O | open options menu |
 | CTRL-C | quit |
 
-### ["license"] | stdout
+### ["License"] | stdout
 
 All the code is licensed under the ISC License.
 
