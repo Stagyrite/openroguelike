@@ -2,15 +2,18 @@
 
 It's an early-stage implementation of a classic roguelike. Check out the contents below.
 
-## ["contents"] | stdout
+### ["contents"] | stdout
 
-### ["[Install](#install)", "[Build](#build)", "[Instructions](#instructions)", "[License](#license)"] | stdout
+1. [Install](#install--stdout)
+1. [Build](#build--stdout)
+1. [Instructions](#instructions--stdout)
+1. [License](#license--stdout)
 
-#### Install
+#### ["install"] | stdout
 
 Requires a C compiler, and a curse implementation such as ncurses.
 
-#### Build
+#### ["build"] | stdout
 
 ```
 ./configure
@@ -19,7 +22,7 @@ make
 
 There is no install target for now as it is not interesting enough yet.
 
-#### Instructions
+#### ["instructions"] | stdout
 
 Directions:
 
@@ -38,7 +41,7 @@ Others:
 * `O`: open options menu ;
 * `CTRL-C`: quit.
 
-#### License
+#### ["license"] | stdout
 
 All the code is licensed under the ISC License.
 It's free, not GPLed.
