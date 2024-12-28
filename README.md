@@ -8,6 +8,8 @@ It's an early-stage implementation of a classic roguelike. Check out the content
    * [Requires](#requires--stdout)
    * [Build](#build--stdout)
 1. [Instructions](#instructions--stdout)
+   * [Directions](#directions--stdout)
+   * [Others](#others--stdout)
 1. [License](#license--stdout)
 
 ### ["install"] | stdout
