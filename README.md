@@ -21,9 +21,9 @@ It's an early-stage implementation of a classic roguelike. Check out the content
 
 ### ["build"] | stdout
 
-```
-./configure
-make
+```console
+$ ./configure
+$ make
 ```
 
 There is no install target for now as it is not interesting enough yet.
