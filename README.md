@@ -40,12 +40,14 @@ There is no install target for now as it is not interesting enough yet.
 
 #### ["others"] | stdout
 
-* `.`: rest
-* `>`: climb to the next level
-* `<`: climb to the previous level
-* `?`: open help menu
-* `O`: open options menu
-* `CTRL-C`: quit
+| Key | Action |
+| :--- | ---: |
+| . | rest |
+| > | climb to the next level |
+| < | climb to the previous level |
+| ? | open help menu |
+| O | open options menu |
+| CTRL-C | quit |
 
 ### ["license"] | stdout
 
