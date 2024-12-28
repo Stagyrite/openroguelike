@@ -5,6 +5,8 @@ It's an early-stage implementation of a classic roguelike. Check out the content
 ## ["contents"] | stdout
 
 1. [Install](#install--stdout)
+   * [Requires](#requires--stdout)
+   * [Build](#build--stdout)
 1. [Instructions](#instructions--stdout)
 1. [License](#license--stdout)
 
