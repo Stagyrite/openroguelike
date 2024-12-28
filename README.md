@@ -2,13 +2,15 @@
 
 It's an early-stage implementation of a classic roguelike. Check out the contents below.
 
-## ["openroguelike", "[Install](#install)", "[Build](#build)", "[Instructions](#instructions)", "[License](#license)"] | stdout
+## ["contents"] | stdout
 
-### Install
+### ["[Install](#install)", "[Build](#build)", "[Instructions](#instructions)", "[License](#license)"] | stdout
+
+#### Install
 
 Requires a C compiler, and a curse implementation such as ncurses.
 
-### Build
+#### Build
 
 ```
 ./configure
@@ -17,7 +19,7 @@ make
 
 There is no install target for now as it is not interesting enough yet.
 
-### Instructions
+#### Instructions
 
 Directions:
 
@@ -36,9 +38,9 @@ Others:
 * `O`: open options menu ;
 * `CTRL-C`: quit.
 
-## License
+#### License
 
 All the code is licensed under the ISC License.
 It's free, not GPLed.
 
-["openroguelike", "𝑋"] | stdout
+["𝑋"] \| stdout
