@@ -46,4 +46,6 @@ Others:
 All the code is licensed under the ISC License.
 It's free, not GPLed.
 
+---
+
 ["𝑋"] \| stdout
