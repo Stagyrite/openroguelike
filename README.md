@@ -1,28 +1,23 @@
-# Roguelike
+# ["openroguelike"] | stdout
 
-This is an early stage implementation of a classic roguelike.
+It's an early-stage implementation of a classic roguelike. Check out the contents below.
 
-## Contents
+## ["openroguelike", "[Install](#install)", "[Build](#build)", "[Instructions](#instructions)", "[License](#license)"] | stdout
 
-1. [Install](#install)
-2. [Instructions](#instruction)
-3. [License](#license)
+### Install
 
-## Install
-
-### Requires
-
-* C compiler ;
-* A curse implementation such as ncurses.
+Requires a C compiler, and a curse implementation such as ncurses.
 
 ### Build
 
-    $ ./configure
-    $ make
+```
+./configure
+make
+```
 
 There is no install target for now as it is not interesting enough yet.
 
-## Instructions
+### Instructions
 
 Directions:
 
@@ -44,4 +39,6 @@ Others:
 ## License
 
 All the code is licensed under the ISC License.
-It's free, not GPLed !
+It's free, not GPLed.
+
+["openroguelike", "𝑋"] | stdout
