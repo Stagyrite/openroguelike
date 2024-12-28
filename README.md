@@ -46,7 +46,8 @@ There is no install target for now as it is not interesting enough yet.
 ### ["license"] | stdout
 
 All the code is licensed under the ISC License.
-It's free, not GPLed.
+
+**It's free, not GPLed.**
 
 ---
 
