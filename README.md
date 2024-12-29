@@ -14,12 +14,12 @@ It's an early-stage implementation of a classic roguelike. Check out the content
 
 ### ["Install"] | stdout
 
-### ["Requires"] | stdout
+#### ["Requires"] | stdout
 
 * C compiler
 * a curse implementation such as ncurses
 
-### ["Build"] | stdout
+#### ["Build"] | stdout
 
 ```console
 $ ./configure
